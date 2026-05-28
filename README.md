@@ -20,11 +20,13 @@ When a new user registers or logs in, the system generates a One-Time Password (
 
 Each OTP is valid only for 5 minutes. After expiration, it automatically becomes invalid and cannot be reused. If the same user attempts to log in again after expiry or for a new session, a new OTP is generated and sent to the email, ensuring secure and time-sensitive authentication for every login attempt.
 
-<img width="1292" height="242" alt="first_otp" src="https://github.com/user-attachments/assets/fb0ac453-f1a6-44d3-9536-8a0ab0c7eed7" />
+<img width="1272" height="237" alt="image" src="https://github.com/user-attachments/assets/904bfad5-316d-44c3-a954-d39a880dd022" />
+
 
 First-Otp image
 
-<img width="1308" height="246" alt="resend_otp" src="https://github.com/user-attachments/assets/86c06cff-9343-44d5-8d4d-399b7994103b" />
+<img width="1303" height="251" alt="image" src="https://github.com/user-attachments/assets/e0cf346a-d040-4e3d-97b7-e5653e74e2cf" />
+
 
 Resend-Otp image
 
