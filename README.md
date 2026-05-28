@@ -8,8 +8,7 @@ The system ensures secure authentication by verifying users through OTP before g
 
 Mailtrap is used in this project as a fake SMTP email testing tool. It allows sending OTP emails without using real email accounts. Instead of delivering emails to actual users, Mailtrap captures them in a safe testing inbox. This helps in developing and testing email functionality (like OTP verification) without spamming real email addresses or requiring production email setup.
 
-
-https://github.com/user-attachments/assets/cfa782ca-a936-4c88-96ce-35b81a0ac6e8
+https://github.com/user-attachments/assets/a355f0fe-ca32-48f1-bc78-f8789c45cf4e
 🎥Demo video
 
 https://github.com/user-attachments/assets/5eb9f19d-8ceb-4ca8-8dc7-77819317c423
